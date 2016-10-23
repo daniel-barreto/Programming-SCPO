@@ -1,0 +1,11 @@
+Session 2 - I like your loop! It's a bit crude though, so next time try doing the same but using a for
+loop or a while loop. In any case, thanks for submitting something!
+
+Session 3 - Nice, I looked up Cebolihna... but what does the phrase mean?! Google can't translate it.
+
+In any case, good work, I added a comment about the syntax in your documentation and it would
+be great if you did a bit more of the questions, but I understand if you all are busy.
+
+2016.10.25 - HW6 - You took a look, but was the assignment unclear? If
+             you're having issues, let me know, or if you're just busy
+             with other courses let me know that too.
