@@ -1,0 +1,13 @@
+Package: Game.of.Codes
+Title: Game of Codes
+Version: 0.0.0.9000
+Authors@R: person(“DanielJohannes”, “BarretoSeebauer”, email = “daniel.martinsdealmeidabarreto@sciencespo.fr”, role = c("aut", "cre"))
+Description: Based on the dataset „character-deaths.csv“, downloaded from
+    https://www.kaggle.com, we analyzed the timing of death of characters from the
+    popular book series „A song of ice and fire“ by George R. R. Martin.
+Depends:
+    R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
