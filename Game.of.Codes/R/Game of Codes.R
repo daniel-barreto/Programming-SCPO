@@ -1,4 +1,3 @@
-
 #Game of Codes
 #A Song of R and Python
 #Made by Daniel Barreto and Johannes Seebauer
@@ -43,7 +42,6 @@ data_got4$Cumulative.Death.Chapter<- with(data_got4, ifelse(is.na(Cumulative.Dea
 lexpectancy.allegiance <- function(x){
   mean(data_got4[data_got4$Allegiances==x, "Cumulative.Death.Chapter"])
 }
-document()
 lexpectancy.allegiance("Lannister")
 lexpectancy.allegiance("Stark")
 lexpectancy.allegiance("Night's Watch")
@@ -73,8 +71,6 @@ lexpectancy.nobility <- function(x){
 lexpectancy.nobility(0)
 lexpectancy.nobility(1)
 
-devtools::create("Game.of.Codes")
-setwd("./Game.of.Codes")
-?lexpectancy.nobility
-?lexpectancy.gender
-?lexpectancy.allegiance
+#setwd("./Game.of.Codes")
+#document()
+#?lexpectancy.gender
